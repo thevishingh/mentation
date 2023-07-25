@@ -1,0 +1,50 @@
+.nav-link {
+    display: block;
+    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+    font-size: var(--bs-nav-link-font-size);
+    font: weight 400px;
+    color: #fff !important;
+
+}
+.row {
+    --bs-gutter-x: 0;
+    --bs-gutter-y: 0;
+}
+#bg1{background-color: black;}
+#back{ 
+     
+    height: fit-content;
+    text-align: center;
+    background-image: url(../images/green.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    color:white;
+   }
+    
+    .scrolltext{font-size: 80px;
+      
+    background:-webkit-linear-gradient(rgba(29, 207, 216, 0.958),#11af5b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+      
+    }
+    #about{background-color:black;
+      background-image: url(../images/s1.png);
+
+      text-indent: 8%;
+    text-align: justify;
+    font-size: xx-large;
+    color:white;
+    padding-top: 3%;
+     }
+     #scrollbg{
+      background-color: black;
+      padding-left: 4%;
+      padding: 3%;
+     }
+     
+     #contact{
+      background-color: black;
+      color:rgb(35, 199, 144);
+     }
